@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/fearless-fun-64295-e559b377/fearless_fun_frontend"
+}
